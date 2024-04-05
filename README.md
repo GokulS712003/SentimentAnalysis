@@ -1,23 +1,20 @@
-# SentimentAnalysis-NMV
-![279486694-35c7a599-8f51-4183-8118-21713bcd1bea](https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/assets/83293163/1c1f5cd1-6bc7-4dd5-973b-f59068ebb150)
-
+# SentimentAnalysis
+![SentimentAnalysisPoster](https://github.com/GokulS712003/SentimentAnalysis/assets/146411917/76619928-9918-494b-be66-bc0f1c4b5c09)
 
 # Sentiment Analysis for Customer Reviews
-### Author : GoppyKrishna M 
+### Author : Gokul S
 
 ___
 
 **Dataset :** https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
-**Documentation :** https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/Project_PPT.pdf
+**Documentation :** https://github.com/GokulS712003/SentimentAnalysis/blob/main/Project_PPT.pdf
 
-**Source Code :** https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/NMV.ipynb
+**Source Code :** https://github.com/GokulS712003/SentimentAnalysis/blob/main/NMV.ipynb
 
-**Predicted Dataset :** https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/Tweets_Output.csv
+**Predicted Dataset :** https://github.com/GokulS712003/SentimentAnalysis/blob/main/NMV.ipynb
 
-**Dashboard Code :** https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/dash.py
-
-**Google Colab :** https://colab.research.google.com/drive/1a2t8t28kTfpWpz6RWm-dDx9yfIzjclq1?usp=sharing
+**Dashboard Code :** https://github.com/GokulS712003/SentimentAnalysis/blob/main/dash.py
 
 **StreamLit Deployment :** https://airlines-sentiment-analysis.streamlit.app
 
@@ -68,7 +65,7 @@ This information helps the Companies to improve their products and services by o
 
 1. Install the required Dependencies and Dataset.
 2. Execute the [Source Code](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) file (NMV.ipynb) to Pre-process the data, Train Data Models and Generate an Input dataset for Visualizing in the Dashboard.
-3. Execute the [Dashboard Code](https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/dash.py) file (dash.py), using the following:
+3. Execute the [Dashboard Code](https://github.com/GokulS712003/SentimentAnalysis/blob/main/dash.py) file (dash.py), using the following:
    ```streamlit run dash.py```
 to create a Dashboard Using Streamlit.
 
@@ -82,6 +79,7 @@ to create a Dashboard Using Streamlit.
 
 ### **Dashboard**
 
-![Output1](https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/assets/83293163/e638ec65-d228-42c0-bf67-fc93126f7ae2)
+![Output1](https://github.com/GokulS712003/SentimentAnalysis/assets/146411917/82913af8-50dc-461d-b3f1-e3d89520d571)
+
 
 
